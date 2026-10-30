@@ -8,3 +8,6 @@ For permission, please email : cartesgr.c.c@protonmail.com
 
 
 Access to the page : https://moonsolo.github.io/studiosoctave-images/
+
+
+Collaborators : MoonSolo and Azarel
